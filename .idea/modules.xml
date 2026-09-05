@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/msd_additions.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/msd_additions.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/msd_additions.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/msd_additions.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/msd_additions.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/msd_additions.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/msd_additions.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/msd_additions.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/msd_additions.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/msd_additions.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/msd_additions.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/msd_additions.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/msd_additions.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/msd_additions.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/msdenhanced.iml" filepath="$PROJECT_DIR$/.idea/modules/msdenhanced.iml" />
+    </modules>
+  </component>
+</project>

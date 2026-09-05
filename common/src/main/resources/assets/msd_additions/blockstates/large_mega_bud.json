@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "msd_additions:block/large_mega_bud",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "msd_additions:block/large_mega_bud",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "msd_additions:block/large_mega_bud",
+      "y": 90,
+      "x": 90
+    },
+    "facing=west": {
+      "model": "msd_additions:block/large_mega_bud",
+      "y": 90,
+      "x": 270
+    },
+    "facing=up": {
+      "model": "msd_additions:block/large_mega_bud"
+    },
+    "facing=down": {
+      "model": "msd_additions:block/large_mega_bud",
+      "x": 180
+    }
+  }
+}

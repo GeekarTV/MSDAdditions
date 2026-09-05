@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "@":{
+      "item": "msd_additions:mega_shard"
+    }
+  },
+  "pattern": [
+    "@#@",
+    "#@#",
+    "@#@"
+  ],
+  "result": {
+    "count": 4,
+    "id": "mega_showdown:mega_meteorid_block"
+  }
+}

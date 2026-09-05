@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values":
+    ["msd_additions:mega_cluster",
+    "msd_additions:small_mega_bud",
+    "msd_additions:medium_mega_bud",
+    "msd_additions:large_mega_bud",
+    "msd_additions:diamond_cluster",
+    "msd_additions:crystal_stone",
+    "msd_additions:shining_stone"]
+}

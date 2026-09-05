@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msd_additions" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3GVTqu3vxhPPxf6XbuSlSzTma7P" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Minecraft Client (:fabric).executor": "Run",
+    "Application.Minecraft Client (:neoforge).executor": "Run",
+    "Gradle.Build MSDEnhanced.executor": "Run",
+    "Gradle.MSDEnhanced [:common:build].executor": "Run",
+    "Gradle.MSDEnhanced [:fabric:dev.architectury.transformer.TransformerRuntime.main()].executor": "Run",
+    "Gradle.MSDEnhanced [:neoforge:dev.architectury.transformer.TransformerRuntime.main()].executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Gradle.msd_additions [:fabric:dev.architectury.transformer.TransformerRuntime.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/MCProjects/msd_additions",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\placed_feature" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\configured_feature" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\loot_table\blocks" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\blockstates" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\textures\item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\placed_feature" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\placed_feature\mega_clusters" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\mega_showdown\recipe" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\recipe" />
+      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\textures\item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Client (:fabric)" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.258" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="" />
+      <created>1784055935044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784055935044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

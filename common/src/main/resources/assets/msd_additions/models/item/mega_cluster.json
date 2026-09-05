@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "msd_additions:item/mega_cluster"
+  }
+}

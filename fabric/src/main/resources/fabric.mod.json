@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "msd_additions",
+  "version": "${version}",
+  "name": "MSD Additions",
+  "description": "",
+  "authors": ["Geekar"],
+  "contact": {
+    "homepage": ""
+  },
+  "license": "unlicense",
+  "icon": "assets/msd_additions/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.yajat.msd_additions.fabric.MSDAdditionsFabric"
+    ],
+    "client": [
+      "com.github.yajat.msd_additions.fabric.client.MSDAdditionsFabricClient"
+    ]
+  },
+  "mixins": [
+    "msd_additions.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*",
+    "cobblemon": ">=1.7",
+    "mega_showdown": ">=1.6.9+1.7+3+1.21.1",
+    "accessories": ">=1.1.0-beta.52+1.21.1"
+  }
+}

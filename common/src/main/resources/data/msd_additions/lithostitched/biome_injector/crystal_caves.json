@@ -1,0 +1,37 @@
+{
+  "type": "lithostitched:add_points",
+  "dimension": "minecraft:overworld",
+  "priority": 2,
+  "points": [
+    {
+      "biome": "msd_additions:crystal_caves",
+      "parameters": {
+        "temperature": [
+          -0.8,
+          -0.3
+        ],
+        "humidity": [
+          0,
+          1
+        ],
+        "continentalness": [
+          -0.2,
+          0.6
+        ],
+        "erosion": [
+          -1,
+          -0.2
+        ],
+        "weirdness": [
+          0,
+          0.7
+        ],
+        "depth": [
+          0.1,
+          0.9
+        ],
+        "offset": 0.1
+      }
+    }
+  ]
+}

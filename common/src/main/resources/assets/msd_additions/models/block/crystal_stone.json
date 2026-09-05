@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "msd_additions:block/crystal_stone"
+  }
+}
