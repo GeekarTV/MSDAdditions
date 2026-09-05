@@ -1,6 +1,5 @@
 package com.github.yajat.msd_additions.block.custom;
 
-import com.github.yajat.msd_additions.MSDAdditions;
 import com.github.yajat.msd_additions.registry.ModBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
@@ -8,8 +7,6 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.level.block.AmethystClusterBlock;
 import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.block.BuddingAmethystBlock;
 import net.minecraft.world.level.block.state.BlockState;
 
 public class GrowingClusterBlock extends AmethystClusterBlock {
@@ -22,7 +19,7 @@ public class GrowingClusterBlock extends AmethystClusterBlock {
     @Override
     protected void randomTick(BlockState blockState, ServerLevel serverLevel, BlockPos blockPos, RandomSource randomSource) {
         super.randomTick(blockState, serverLevel, blockPos, randomSource);
-        final Direction direction = (Direction)blockState.getValue(FACING);
+        final Direction direction = blockState.getValue(FACING);
         final BlockPos blockPos2 = blockPos.relative(direction.getOpposite());
 
         // This checks first if the cluster has the chance to grow and then if the block the cluster is placed on is a crystal stone
@@ -38,7 +35,7 @@ public class GrowingClusterBlock extends AmethystClusterBlock {
 
             // Then, based on all that, the cluster is set to grow and reuse the FACING property from the original cluster to be placed properly
             if (block != null) {
-                BlockState blockStateFinal = (BlockState) (block.defaultBlockState()).setValue(FACING, blockState.getValue(FACING));
+                BlockState blockStateFinal = (block.defaultBlockState()).setValue(FACING, blockState.getValue(FACING));
                 serverLevel.setBlockAndUpdate(blockPos, blockStateFinal);
             }
         }
