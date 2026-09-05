@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="Temporary texture">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/large_mega_bud.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/large_mega_bud.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/medium_mega_bud.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/medium_mega_bud.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/small_mega_bud.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/loot_table/blocks/small_mega_bud.json" afterDir="false" />
+    <list default="true" id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="Fixed loot tables">
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/BuddingAmethystClustersFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/BuddingAmethystClustersFeature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/CrystalRockFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/CrystalRockFeature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788622379203</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed loot tables">
+      <option name="closed" value="true" />
+      <created>1788622964113</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788622964113</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +215,7 @@
     <MESSAGE value="Made Mega Shard as a BlockItem" />
     <MESSAGE value="Had to make a custom ItemBlock class due to 2 ItemBlocks on the same block sharing the same name" />
     <MESSAGE value="Temporary texture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temporary texture" />
+    <MESSAGE value="Fixed loot tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed loot tables" />
   </component>
 </project>
