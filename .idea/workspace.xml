@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="" />
+    <list default="true" id="207684f4-481f-4ae8-a064-f16cb4e51d9e" name="Changes" comment="the biome didn't have any ores or basic mc features ;(">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/registry/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/registry/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/registry/ModFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/registry/ModFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/BuddingAmethystClustersFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/BuddingAmethystClustersFeature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/CrystalRockFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/github/yajat/msd_additions/worldgen/CrystalRockFeature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/msd_additions/textures/block/mega_cluster.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/msd_additions/textures/block/mega_cluster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/msd_additions/textures/item/mega_cluster.png" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/msd_additions/textures/item/mega_cluster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/biome/crystal_caves.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/biome/crystal_caves.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/amethyst_block_disk_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/budding_amethyst_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/crystal_rock_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/crystal_rock_root_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/crystal_stone_disk_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/large_mega_bud_down_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/large_mega_bud_up_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/medium_mega_bud_down_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/medium_mega_bud_up_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/mega_cluster_down_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/mega_cluster_up_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/shining_stone_light_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/small_mega_bud_down_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/configured_feature/small_mega_bud_up_feature.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/amethyst_block_disk_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/budding_amethyst_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/crystal_rock_root_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/crystal_stone_disk_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/large_mega_bud_down_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/large_mega_bud_up_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/medium_mega_bud_down_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/medium_mega_bud_up_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/mega_cluster_down_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/mega_cluster_up_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/shining_stone_light_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/small_mega_bud_down_placed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/resources/data/msd_additions/worldgen/placed_feature/small_mega_bud_up_placed.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +64,17 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="msd_additions" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msd_additions" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="msd_additions" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -44,8 +91,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GeekarTV&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GeekarTV/msd_additions.git&quot;,
+    &quot;accountId&quot;: &quot;d7132602-cc6f-4c6c-8984-ab592e1bdd71&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -67,12 +131,13 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "budding__crystal",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/MCProjects/msd_additions",
+    "last_opened_file_path": "D:/MCProjects/msd_additions/common/src/main/resources/data/msd_additions/worldgen/placed_feature",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -84,11 +149,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MCProjects\msd_additions\common\src\main\resources\data\msd_additions\worldgen\placed_feature" />
+      <recent name="D:\MCProjects\msd_additions\common\src\main\resources\data\msd_additions\worldgen\configured_feature" />
+      <recent name="D:\MCProjects\msd_additions\common\src\main\resources\assets\msd_additions\textures\block" />
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\placed_feature" />
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\configured_feature" />
-      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\loot_table\blocks" />
-      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\blockstates" />
-      <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\textures\item" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\worldgen\placed_feature" />
@@ -96,6 +161,10 @@
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\mega_showdown\recipe" />
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\data\msdenhanced\recipe" />
       <recent name="D:\MCProjects\MSDEnhanced\common\src\main\resources\assets\msdenhanced\textures\item" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.yajat.msd_additions.block.custom" />
+      <recent name="com.github.yajat.msd_additions.worldgen" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client (:fabric)" />
@@ -115,9 +184,22 @@
       <option name="presentableId" value="Default" />
       <updated>1784055935044</updated>
     </task>
+    <task id="LOCAL-00001" summary="the biome didn't have any ores or basic mc features ;(">
+      <option name="closed" value="true" />
+      <created>1788605428320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788605428320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the biome didn't have any ores or basic mc features ;(" />
+    <option name="LAST_COMMIT_MESSAGE" value="the biome didn't have any ores or basic mc features ;(" />
   </component>
 </project>

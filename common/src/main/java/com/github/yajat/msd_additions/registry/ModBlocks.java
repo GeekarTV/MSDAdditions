@@ -7,9 +7,9 @@ import dev.architectury.registry.registries.RegistrySupplier;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.AmethystClusterBlock;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.BuddingCrystalBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 
 import java.util.function.Supplier;
@@ -40,6 +40,9 @@ public class ModBlocks {
 
     public static final RegistrySupplier<Block> SHINING_STONE = registerBlock("shining_stone",
             () -> new Block(BlockBehaviour.Properties.of().strength(2.0F).lightLevel(state -> 15)));
+
+    public static final RegistrySupplier<Block> BUDDING_CRYSTAL_BLOCK = registerBlock("budding_crystal_block",
+            () -> new BuddingCrystalBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.BUDDING_AMETHYST).strength(4.0F).randomTicks()));
 
     //List of blocks with custom block classes
     public static final RegistrySupplier<Block> DIAMOND_CLUSTER = registerBlock("diamond_cluster",

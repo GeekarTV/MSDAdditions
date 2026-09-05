@@ -2,6 +2,7 @@ package com.github.yajat.msd_additions.registry;
 
 import com.github.yajat.msd_additions.MSDAdditions;
 import com.github.yajat.msd_additions.worldgen.BuddingAmethystClustersFeature;
+import com.github.yajat.msd_additions.worldgen.BuddingMegaClustersFeature;
 import com.github.yajat.msd_additions.worldgen.CrystalRockFeature;
 import dev.architectury.registry.registries.DeferredRegister;
 import dev.architectury.registry.registries.RegistrySupplier;
@@ -18,6 +19,11 @@ public class ModFeatures {
             FEATURES.register(
                     "budding_amethyst_clusters",
                     () -> new BuddingAmethystClustersFeature(OreConfiguration.CODEC)
+            ); //Basically adds an amethyst cluster feature that only places on an amethyst block and replace the block into a budding amethyst
+    public static final RegistrySupplier<Feature<OreConfiguration>> BUDDING_MEGA_CLUSTERS =
+            FEATURES.register(
+                    "budding_mega_clusters",
+                    () -> new BuddingMegaClustersFeature(OreConfiguration.CODEC)
             ); //Basically adds an amethyst cluster feature that only places on an amethyst block and replace the block into a budding amethyst
     public static final RegistrySupplier<Feature<NoneFeatureConfiguration>> CRYSTAL_ROCK =
             FEATURES.register(
