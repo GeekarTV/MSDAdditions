@@ -1,0 +1,18 @@
+{
+  "type": "msd_additions:budding_mega_clusters",
+  "config": {
+    "size": 4,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "msd_additions:crystal_stone"
+        },
+        "state": {
+          "Name": "msd_additions:budding_crystal_block"
+        }
+      }
+    ]
+  }
+}
