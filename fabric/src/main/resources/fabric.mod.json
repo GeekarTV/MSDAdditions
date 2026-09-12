@@ -23,13 +23,13 @@
     "msd_additions.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.18.4",
+    "fabricloader": ">=0.19.4",
     "minecraft": "~1.21.1",
     "java": ">=21",
     "architectury": ">=13.0.8",
     "fabric-api": "*",
-    "cobblemon": ">=1.7",
-    "mega_showdown": ">=1.6.9+1.7+3+1.21.1",
+    "cobblemon": ">=1.8",
+    "mega_showdown": ">=1.0.0+1.8+1.21.1",
     "accessories": ">=1.1.0-beta.52+1.21.1"
   }
 }
