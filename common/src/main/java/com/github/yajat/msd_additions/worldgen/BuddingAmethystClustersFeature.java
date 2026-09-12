@@ -12,9 +12,6 @@ import net.minecraft.world.level.levelgen.feature.Feature;
 import net.minecraft.world.level.levelgen.feature.FeaturePlaceContext;
 import net.minecraft.world.level.levelgen.feature.configurations.OreConfiguration;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class BuddingAmethystClustersFeature extends Feature<OreConfiguration> {
     public BuddingAmethystClustersFeature(Codec<OreConfiguration> codec) {
         super(codec);
@@ -48,12 +45,12 @@ public class BuddingAmethystClustersFeature extends Feature<OreConfiguration> {
         return placed > 0;
     }
     //Place random cluster levels (while checking if the block near the budding amethyst can be replaced)
-    private void placeClusters(WorldGenLevel level, BlockPos pos, RandomSource random) {
+    public void placeClusters(WorldGenLevel level, BlockPos pos, RandomSource random) {
         for (Direction direction : Direction.values()) {
             BlockPos clusterPos = pos.relative(direction);
             boolean isCluster = random.nextBoolean();
-            Block[] Clusters = {Blocks.SMALL_AMETHYST_BUD, Blocks.MEDIUM_AMETHYST_BUD, Blocks.LARGE_AMETHYST_BUD};
-            int randomClust = (int) (random.nextInt(2));
+            Block[] Clusters = {Blocks.SMALL_AMETHYST_BUD, Blocks.MEDIUM_AMETHYST_BUD, Blocks.LARGE_AMETHYST_BUD, Blocks.AMETHYST_CLUSTER};
+            int randomClust = (int) (random.nextInt(3));
             Block randomBlock = Clusters[randomClust];
             if (level.getBlockState(clusterPos).canBeReplaced() && isCluster) {
                     level.setBlock(
